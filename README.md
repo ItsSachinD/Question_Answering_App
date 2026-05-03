@@ -1,0 +1,2 @@
+# Question_Answering_App
+Created Gen AI app by using open-source tools in which you can upload the document and ask query about the document. Allows users to upload various type of documents and extracts key information and entities from the text to build structured representation of the content
